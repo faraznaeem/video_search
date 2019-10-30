@@ -2,5 +2,4 @@
 
 Simple application where you can search for videos using the youtube API
 
-Link to app
-youtube-video-search-react.netlify.com
+Link to [app](http://youtube-video-search-react.netlify.com) deployed on netlify
